@@ -1,0 +1,11 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=Executes commands upon file system events (using inotify)
+EAPI=7
+HOMEPAGE=https://quitesimple.org/
+INHERIT=git-r3
+LICENSE=ISC
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
+_md5_=753ae18f8195847bd3add049d56e0dff
